@@ -24,3 +24,9 @@
     display: flex;
     color: antiquewhite;
 }
+
+.escola{
+    display: flex;
+    color: white;
+    background-color: background-image: radial-gradient(circle at 73.48% 50%, #b03b89 0, #90337e 16.67%, #6f286d 33.33%, #4c1c58 50%, #2c1041 66.67%, #15002d 83.33%, #00001d 100%);;
+}
